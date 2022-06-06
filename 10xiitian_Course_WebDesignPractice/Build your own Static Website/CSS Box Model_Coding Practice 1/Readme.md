@@ -22,17 +22,17 @@ The most common way to add CSS, is to keep the styles in external CSS files and 
 CSS selectors are used to "find" (or select) the HTML elements you want to style. 
 
 We can divide CSS selectors into five categories: <br />
-Simple selectors (select elements based on name, id, class)  <br />
-Combinator selectors (select elements based on a specific relationship between them)  <br />
-Pseudo-class selectors (select elements based on a certain state)  <br />
-Pseudo-elements selectors (select and style a part of an element) <br />
-Attribute selectors (select elements based on an attribute or attribute value)  <br />
+**Simple selectors** (select elements based on name, id, class)  <br />
+**Combinator selectors** (select elements based on a specific relationship between them)  <br />
+**Pseudo-class selectors** (select elements based on a certain state)  <br />
+**Pseudo-elements selectors** (select and style a part of an element) <br />
+**Attribute selectors** (select elements based on an attribute or attribute value)  <br />
 
-CSS Simple Selector includes Element Selector, Id Selector, Class Selector, Universal Selector, Group Selector.
+**CSS Simple Selector includes Element Selector, Id Selector, Class Selector, Universal Selector, Group Selector.**
 
 In specific we will be using Class Selector in the above web design.
 
-Class-Selector: The class selector selects HTML elements with a specific class attribute.
+**Class-Selector**: The class selector selects HTML elements with a specific class attribute.
 To use class selector you must use ( . ) followed by class name in CSS. This rule will be applied to the 
 HTML element with the class attribute “paragraph-class“  <br />
 
