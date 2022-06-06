@@ -1,6 +1,6 @@
-Resources:
-Use this background image,
-URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png
+**Resources:**  <br />
+Use this background image,  <br />
+URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png  <br />
 
 **CSS Colors used:**  <br />
 Background color for button: Orange <br />
