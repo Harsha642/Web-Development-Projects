@@ -44,5 +44,5 @@ HTML element with the class attribute “paragraph-class“  <br />
 
 ---------------------------------------------------------------------------------------------------------
 
-   <img src="Web-Development-Projects/10xiitian_Course_WebDesignPractice/Build%20your%20own%20Static%20Website/CSS%20Box%20Model_Coding%20Practice%201/TodoList.jpeg" >
+   <img src="10xiitian_Course_WebDesignPractice/Build%20your%20own%20Static%20Website/CSS%20Box%20Model_Coding%20Practice%201/TodoList.jpeg">
 
