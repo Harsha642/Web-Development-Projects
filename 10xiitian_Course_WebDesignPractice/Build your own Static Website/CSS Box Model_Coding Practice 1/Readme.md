@@ -10,7 +10,7 @@ CSS Font families used: Roboto
 
 ---------------------------------------------------------------------------------------------------------
 
-CSS can be added to HTML documents in 3 ways: 
+CSS can be added to HTML documents in 3 ways: <br />
 Inline - by using the style attribute inside HTML elements <br /> 
 Internal - by using a <style> element in the <head> section  <br />
 External - by using a <link> element to link to an external CSS file <br />
@@ -21,12 +21,12 @@ The most common way to add CSS, is to keep the styles in external CSS files and 
 
 CSS selectors are used to "find" (or select) the HTML elements you want to style. 
 
-We can divide CSS selectors into five categories:
-Simple selectors (select elements based on name, id, class) 
-Combinator selectors (select elements based on a specific relationship between them) 
-Pseudo-class selectors (select elements based on a certain state) 
-Pseudo-elements selectors (select and style a part of an element)
-Attribute selectors (select elements based on an attribute or attribute value)
+We can divide CSS selectors into five categories: <br />
+Simple selectors (select elements based on name, id, class)  <br />
+Combinator selectors (select elements based on a specific relationship between them)  <br />
+Pseudo-class selectors (select elements based on a certain state)  <br />
+Pseudo-elements selectors (select and style a part of an element) <br />
+Attribute selectors (select elements based on an attribute or attribute value)  <br />
 
 CSS Simple Selector includes Element Selector, Id Selector, Class Selector, Universal Selector, Group Selector.
 
