@@ -34,12 +34,12 @@ In specific we will be using Class Selector in the above web design.
 
 Class-Selector: The class selector selects HTML elements with a specific class attribute.
 To use class selector you must use ( . ) followed by class name in CSS. This rule will be applied to the 
-HTML element with the class attribute “paragraph-class“
+HTML element with the class attribute “paragraph-class“  <br />
 
-.paragraph-class {
-    color:white;
-    font-family: monospace;
-    background-color: purple;
-}
+.paragraph-class {  <br />
+    color:white;   <br />
+    font-family: monospace;  <br />
+    background-color: purple;  <br />
+}   <br />
 
 ---------------------------------------------------------------------------------------------------------
