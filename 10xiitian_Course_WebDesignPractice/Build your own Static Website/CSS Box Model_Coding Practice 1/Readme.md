@@ -12,8 +12,8 @@ CSS Font families used: Roboto
 
 CSS can be added to HTML documents in 3 ways: <br />
 **Inline** - by using the style attribute inside HTML elements <br /> 
-Internal - by using a <style> element in the <head> section  <br />
-External - by using a <link> element to link to an external CSS file <br />
+**Internal** - by using a <style> element in the <head> section  <br />
+**External** - by using a <link> element to link to an external CSS file <br />
 
 The most common way to add CSS, is to keep the styles in external CSS files and I will be also following this.
 
