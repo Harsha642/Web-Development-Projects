@@ -2,11 +2,11 @@ Resources:
 Use this background image,
 URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png
 
-CSS Colors used:
-Background color for button: Orange
-Text color: White
+**CSS Colors used:**  <br />
+Background color for button: Orange <br />
+Text color: White <br />
 
-CSS Font families used: Roboto
+CSS Font families used: Roboto <br />
 
 ---------------------------------------------------------------------------------------------------------
 
